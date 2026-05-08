@@ -224,6 +224,7 @@ It is important  to review the results of scans to learn about any possible vuln
 
 The final step was to perform cleanup by deleting the virtual machine to prevent unnecessary resource usage.
 
+---
 
 ## Key Takeaways
 
@@ -233,6 +234,7 @@ The final step was to perform cleanup by deleting the virtual machine to prevent
 - Always review scan results for possible vulnerabilities.
 
 ---
+
 ## Conclusion
 
 In this lab I successfully completed an Unauthenticated Basic Network Scan, created custom NSG and  Windows Firewall inbound rules to allow network traffic from Tenable and reviewed the results from the scan.
