@@ -1,4 +1,4 @@
-# Unauthenticated Basic Network Scan: Windows 11
+# Unauthenticated Basic Network Scan: Windows 11 VM
 
 <img width="711" height="347" alt="TenableWindows" src="https://github.com/user-attachments/assets/1d8a2be7-82ea-42fb-a69d-8c8b4ec375e1" />
 
