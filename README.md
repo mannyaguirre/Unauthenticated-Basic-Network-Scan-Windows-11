@@ -216,7 +216,7 @@ The Unauthenticated Basic Network Scan was finished in approximately 10 minutes 
 
 ### Why This Matters?
 
-It is important  to review the results of scans to learn about any possible vulnerabilities an organization  may have and take the necessary steps to implement the organization's **Playbook** if necessary. 
+It is important  to review the results of scans to learn about any possible vulnerabilities an organization  may have and take the necessary steps to implement the organization's vulnerability-remediation process when necessary
 
 ---
 
